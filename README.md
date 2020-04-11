@@ -1,2 +1,2 @@
 # python-functions
-python on input,print,range,map,len functions 
+python on input,print,range,map  functions
